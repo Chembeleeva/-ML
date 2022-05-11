@@ -1,1 +1,13 @@
-
+ 
+<xml>
+  <Summary>"Test_QA"</Summary>
+  <Project>"GIT_GitHub"</Project>
+  <Component>"Test"</Component>
+  <Author>"Сhembeleeva"</Author>
+  <Version>"V1"</Version>
+  <Severity>"S1"</Severity>
+  <Priority>"P3_Low"</Priority>
+  <Steps_to_Reproduce>"Test"</Steps_to_Reproduce>
+  <Actual_Result>"Test"</Actual_Result>
+  <Expected_Result>"Test"</Expected_Result>
+  <Additional_information>"Test"</Additional_information>
